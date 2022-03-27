@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">carnet04</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="profile">Perfil</string>
+    <string name="salary">Salario</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="carnet">Carnet</string>
+    <string name="perfil">Ver Perfil</string>
+    <string name="perfil1">1</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="sueldo1">Sueldo</string>
+
+    <string name="sueldo">Sueldo Bruto</string>
+    <string name="renta">Renta</string>
+    <string name="iss">ISSS</string>
+    <string name="afp">AFP</string>
+    <string name="bono">Bono</string>
+    <string name="sueldobruto">0.0</string>
+    <string name="renta1_">0.0</string>
+    <string name="isss1">0.0</string>
+    <string name="afp1">0.0</string>
+    <string name="bono1">0.0</string>
+    <string name="sueldo_neto">Sueldo Neto</string>
+    <string name="neto">0.0</string>
+    <string name="uni">Universidad De el salvador</string>
+
+</resources>
